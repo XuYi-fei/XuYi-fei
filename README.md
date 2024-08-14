@@ -2,7 +2,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuYi-fei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋
+### 个人简介
+
+教育经历：华科本+南京大学计算机硕在读
+技术方向：前后端开发
 
 <!--
 **XuYi-fei/XuYi-fei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
